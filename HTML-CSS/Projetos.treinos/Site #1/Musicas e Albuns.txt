@@ -1,0 +1,31 @@
+<h2>NAVEGAÇÃO</h2>
+    <ul><!--Foo Fighters Self Titled-->
+        <li><a href="https://www.youtube.com/playlist?list=PLPLj3dwmpRnGPzhZ2Yxchue-UXjM6_R7k" target="_blank">Foo Fighters(1995)</a></li>
+        <br>
+        <!--The Color and the Shape-->
+        <li><a href="https://www.youtube.com/playlist?list=PL6ogdCG3tAWhXHYSwLUNfLetLs-5k8rMZ" target="_blank">The Color and the Shape(1997)</a></li>
+        <br>
+            <!--There is Nothing Left to Lose-->
+            <li><a href="https://www.youtube.com/watch?v=8U5TPJwb80I&list=PL5914F0192E035465" target="_blank">There is Nothing Left to Lose(1999)</a></li>
+            <br>
+            <!--One by One-->
+            <li><a href="https://www.youtube.com/playlist?list=PLnoIzAMX-M6cKSyHkSFcZuPv5B-I4Pbql" target="_blank">One by One(2002)</a></li>
+            <br>
+            <!--In your honor-->
+            <li><a href="https://www.youtube.com/playlist?list=PLnoIzAMX-M6fnsrahUMtjTgDxP2vw1sLe" target="_blank">In Your Honor(2005)</a></li>
+            <br>
+            <!--Echoes, Silence, Patience & Grace-->
+            <li><a href="https://www.youtube.com/watch?v=nV7jyMUsiq0&list=PLBE05D5395E5546B8" target="_blank">Echoes, Silence, Patience & Grace(2007)</a></li>
+            <br>
+            <!--Wasting Light-->
+            <li><a href="https://www.youtube.com/playlist?list=PL_Mzg1364RAKkuJhW2U2WNwdqSh2mBgou" target="_blank">Wasting Light(2011)</a></li>
+            <br>
+            <!--Sonic Highways-->
+            <li><a href="https://www.youtube.com/playlist?list=PLPpvG6skqIvOD53diBErzizNqrqTDPu9h" target="_blank">Sonic highways(2014)</a></li>
+            <br>
+            <!--Concrete and gold-->
+            <li><a href="https://www.youtube.com/playlist?list=PL4fs7ExwY-VPCf1jnIQDsfo7XZ_stkEhQ" target="_blank">Concrete and Gold(2017)</a></li>
+            <br>
+            <!--Medicine at Midnight-->
+            <li><a href="https://www.youtube.com/playlist?list=PL4fs7ExwY-VPCf1jnIQDsfo7XZ_stkEhQ" target="_blank">Medicine at Midnight(2021)</a></li>
+        </ul>

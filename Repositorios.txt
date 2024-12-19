@@ -1,0 +1,13 @@
+Repositorios github
+
+Free books:
+https://github.com/EbookFoundation/free-programming-books
+
+Free API's:
+https://github.com/public-apis/public-apis
+
+Paths to other techs:
+https://github.com/kamranahmedse/developer-roadmap
+
+Free courses: 
+https://freecourses.github.io/

@@ -1,0 +1,35 @@
+Apostila: 
+ZecaNunes.com/apostila
+-----------------------------------------------------------------------------------------
+***USE GUIAS ANONIMAS***
+Outlook:
+https://outlook.live.com/mail/0/inbox/id/AQQkADAwATM3ZmYAZS0zZGIzLTZkMGItMDACLTAwCgAQAFsM4whyFNVMsLyJmFKnB8Y%3D
+-----------------------------------------------------------------------------------------
+Azure:
+portal.azure.com
+-----------------------------------------------------------------------------------------
+Login
+luiz.fbossetto@outlook.com
+artist2004
+-----------------------------------------------------------------------------------------
+Check your balance:
+Subscriptions(chave) -> link na caixa laranja -> clica no nariz
+-----------------------------------------------------------------------------------------
+Primeira maquina 
+Maquina windows10
+azureadmin
+@luizArtist2004
+-----------------------------------------------------------------------------------------
+Azure Active Directory Hybrid Lab
+https://github.com/PeterR-msft/M365WVDWS/tree/master/AAD-Hybrid-Lab
+-----------------------------------------------------------------------------------------
+Acesso ao DomainController(WORKSHOPDC):
+.\adadmin
+AdminPa$$w0rd!1234
+-----------------------------------------------------------------------------------------
+Azure Active Directory
+40.85.186.169
+azadmin@luizfbossettooutlook.onmicrosoft.com 
+azadmin
+Profissao#C10UD
+-----------------------------------------------------------------------------------------

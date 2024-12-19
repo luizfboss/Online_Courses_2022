@@ -1,0 +1,19 @@
+Use the IBM Quantum Lab
+
+qc = QuantumCircuit(1)
+1 - number oif qubits
+
+
+add gate:
+qc.x(0)
+x - type of gate
+0 - first qubit
+
+add gates to circuit:
+qc.draw() -> no parameters
+qc - name of quantum circuit
+draw - function that draws the circuit
+This code will return an image of the circuit as an output
+
+visualize transition(qc, trace = True)
+This is going to run the curcuit using this code. At the end of the code, a video and a picture will show up showing the process

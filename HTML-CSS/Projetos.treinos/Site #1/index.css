@@ -1,0 +1,121 @@
+body {
+    background-color: #125189;
+    background: url(Imagens/FF-01.jpg) fixed;
+    background-size: cover;
+}
+p{
+    color: white;
+    width: 600px;
+    font-weight: bold;
+    text-align: center;
+}
+/*---------------------------------------*/
+/*anchors*/
+a{
+    color: white;
+    font-weight: bold;
+}
+a:visited{
+    color: white;
+    font-weight: bold;
+}
+/*---------------------------------------*/
+/*Title*/
+h1#title{
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    padding: 10px;
+    height: 20px;
+}
+div#title{
+    background-color: black;
+    border-radius: 20px;
+    height: 110px;
+    text-align: center;
+    transform: translate(0%, 0%);
+}
+/*---------------------------------------*/
+/*Navegação*/
+h1#naveg{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+ul#naveg li{
+    color: white;
+}
+div#naveg{
+    background-color: black;
+    width: 275px;
+    height: 480px;
+    border-radius: 20px;
+    padding: 10px;
+    transform: translate(5%, 10%);
+}
+/*---------------------------------------*/
+/*Membros*/
+h1#membros{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+ul#membros li{
+    color: white;
+    padding: 2px;
+}
+div#membros{
+    background-color: black;
+    width: 297px;
+    height: 236px;
+    border-radius: 20px;
+    transform: translate(5%, -155%);
+}
+/*---------------------------------------*/
+/*Biografia*/
+h1#biografia{
+    color: white;
+    text-align: center;
+}
+p#bioP{
+    text-align: justify;
+}
+div#bio{
+    background-color: black;
+    border-radius: 20px;
+    width: 610px;
+    transform: translate(49%, -111%);
+    padding: 20px;
+}
+/*---------------------------------------*/
+/*Premios*/
+div#premios{
+    background-color: black;
+    border-radius: 20px;
+    width: 610px;
+    padding: 20px;
+    transform: translate(49%, -158%);
+}
+h1#premios{
+    color: white;
+    text-align: center;
+}
+p#premios{
+    text-align: justify;
+}
+/*---------------------------------------*/
+/*Timeline*/
+div#timeline{
+    transform: translate(111%, -343%);
+    position:absolute;
+}
+/*---------------------------------------*/
+div#easteregg{
+    background-color: black;
+    border-radius: 15px;
+    width: 259px;
+    text-align: center;
+    padding: 20px;
+    transform: translate(5%, -1053%);
+}

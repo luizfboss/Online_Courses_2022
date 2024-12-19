@@ -1,0 +1,97 @@
+body {
+    background-color: #125189;
+    background: url(Imagens/FF-01.jpg) fixed;
+    background-size: cover;
+}
+p{
+    color: white;
+    width: 600px;
+    text-align: center;
+}
+
+/*anchors*/
+a{
+    color: white;
+    font-weight: bold;
+}
+a:visited{
+    color: white;
+    font-weight: bold;
+}
+
+/*Title*/
+h1#titleDave{
+    color: white;
+    text-align: center;
+    font-size: 70px;
+}
+div#titleDave{
+    background-color: black;
+    height: 100px;
+    text-align: center;
+    transform: translate(0%, 0%);
+}
+
+/*Navegação*/
+h1#navegDave{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+ul#navegDave li{
+    color: white;
+}
+div#navegDave{
+    background-color: black;
+    width: 275px;
+    height: 480px;
+    border-radius: 20px;
+    padding: 10px;
+    transform: translate(5%, 10%);
+}
+
+/*Biografia*/
+h1#biografiaDave{
+    color: white;
+    text-align: center;
+}
+p#bioPDave{
+    font-size: 19px;
+}
+span#bioDave{
+    vertical-align:text-bottom;
+    font-size: 19px;
+    color: white;
+}
+div#bioDave{
+    display: table;
+    background-color: black;
+    padding: 20px;
+    width: 600px;
+    border-radius: 20px;
+    transform: translate(39%, -332%);
+    width: fit-content;
+    block-size: fit-content;
+}
+img#ImgDave{
+    transform: translate(160%, -241%);
+}
+
+/*Membros*/
+h1#membrosDave{
+    text-align: center;
+    color: white;
+    transform: translate(0%, 0%);
+}
+ul#membrosDave li{
+    color: white;
+    padding: 2px;
+}
+div#membrosDave{
+    background-color: black;
+    width: 297px;
+    height: 200px;
+    border-radius: 20px;
+    transform: translate(5%, 18%);
+}

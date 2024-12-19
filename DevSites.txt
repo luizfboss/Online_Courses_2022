@@ -1,0 +1,45 @@
+Lifeat (for relaxing environment):
+https://lifeat.io/
+----------------- WEBDEV SITES -----------------
+Normalize.css (for a better result for every browser):
+(create a new css file and paste the code below)
+https://necolas.github.io/normalize.css/8.0.1/normalize.css
+
+Flaticon:
+https://www.flaticon.com/br/
+
+Whimsical (Blueprints for projects):
+https://whimsical.com/
+
+Shape Divider (More HTML + CSS Layouts):
+https://www.shapedivider.app/
+
+HTML5 up (HTML Fancy Layouts):
+https://html5up.net/
+
+CSS Layout:
+https://csslayout.io/
+
+Grabient:
+https://www.grabient.com/
+
+CSS Gradient
+https://cssgradient.io/
+
+Fancy-border-radius:
+https://9elements.github.io/fancy-border-radius/
+
+HTTP Statuses codes (types of codes/errors):
+https://httpstatuses.com/
+
+Figma (Team Design/Jam)
+https://www.figma.com/
+
+Guide to Flexbox:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Display Property:
+https://www.w3schools.com/cssref/pr_class_display.asp
+
+TinyWow
+tinywow.com

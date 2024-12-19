@@ -1,0 +1,4 @@
+https://github.com/cod3rcursos/curso-java
+
+Artigo sobre terminais:
+https://blog.cod3r.com.br/terminal-no-windows/

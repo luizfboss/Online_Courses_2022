@@ -1,0 +1,2 @@
+def serie(a):
+    
