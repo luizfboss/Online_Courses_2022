@@ -1,0 +1,14 @@
+Uso do Jupyter
+Nao feche a janela do Jupyter
+
+Biblioteca utilizada p/ automacao - pyautogui + pyperclip (o segundo ja vem no primeiro, mas importe os dois juntos)
+Markdown - texto explicativo (comentario)
+
+Sempre que for fazer analise de dados ou coisas relacionadas a dados, use o pandas
+
+Sempre que passar o local de um arquivo, coloque antes do texto um r"..."
+
+
+
+
+
